@@ -214,7 +214,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(https://www.messenger.com/messenger_media/?attachment_id=1818405388659130&message_id=mid.%24cAABa9gBsvyiVo5oKAmPclOE4NFI6&thread_id=100012615581480);
+	background-image: url(https://scontent.xx.fbcdn.net/v/t1.15752-9/441287381_964906465120169_3898509429434908803_n.jpg?stp=dst-jpg_s600x600&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGQ5zyzEwh9bKQTahoFiX7dUF7HOfj5rZxQXsc5-PmtnNo7OVs4Ohpmy1Y4LPH2EpQt8nIPE5tyrd8P7usZYzqc&_nc_ohc=9xcZyNopfGgQ7kNvgHTDR3a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QH2P5g_1PGxWbjkt6SHMrNWgvdLm_vVKAokx873LifPlg&oe=666AFA43);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -789,7 +789,7 @@ p {
                 It's a creative outlet that constantly challenges me to see things from different perspectives and grow as an artist.</p>
           </div>
           <div class="project-img">
-            <img src="https://www.messenger.com/messenger_media/?attachment_id=947900290205734&message_id=mid.%24cAABa9gBsvyiVo7cpf2PcnCgwMZUc&thread_id=100012615581480" alt="img">
+            <img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.15752-9/440811175_947900293539067_1548067518474723392_n.jpg?stp=dst-jpg_s403x403&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGWVId3gl2NnIWFd9iEoqaC_J6QoaxHChD8npChrEcKEHnMvmwNz1xaK674M_uEZkGcLOtiNRZhwEEBLx76vwfn&_nc_ohc=g6bmMgifd8AQ7kNvgGFM6lW&_nc_ht=scontent.fmnl17-2.fna&oh=03_Q7cD1QFubnbZSpg2DpwjK5nnJbqjWLzqXJJtr-wd1JIihEUmdg&oe=666B0108" alt="img">
           </div>
         </div>
         <div class="project-item">
@@ -799,7 +799,7 @@ p {
                 through code and creating solutions that have a real impact on people's lives.</p>
           </div>
           <div class="project-img">
-            <img src="https://www.istockphoto.com/photo/programming-source-code-abstract-background-gm1047259374-280143656" alt="img">
+            <img src="https://media.istockphoto.com/id/1047259374/photo/programming-source-code-abstract-background.jpg?s=612x612&w=0&k=20&c=07DAFiujCb58Zgu5ZArLprHiSKew5pCGqbTnop9GclA=" alt="img">
           </div>
         </div>
       </div>
@@ -812,13 +812,13 @@ p {
     <div class="about container">
       <div class="col-left">
         <div class="about-img">
-          <img src="https://www.messenger.com/messenger_media/?attachment_id=2450870038432386&message_id=mid.%24cAABa9gBsvyiVo5pMSmPclPAiVfjo&thread_id=100012615581480" alt="img">
+          <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/441232108_2450870041765719_4826024100091718148_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF-lpwY_2IuyXX5UvG3trU79SN_ujwZOpz1I3-6PBk6nIx7I2IFk9-nykPabQF3b6SKHpn1IVnrKBCfmDuohrGN&_nc_ohc=CHmjEGpFm3AQ7kNvgFBWDaK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFGx64MzWeSCGk5GwViflrU6__tcvqaqwb89xScg2rSXg&oe=666B1041" alt="img">
         </div>
       </div>
       <div class="col-right">
         <h1 class="section-title"> My Hob<span>bies</span></h1>
         <h2>Coding</h2>
-        <h2>Watching MOvies or Animes</h2>
+        <h2>Watching Movies or Animes</h2>
         <h2>Listening to music</h2>
         
       </div>
