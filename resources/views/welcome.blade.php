@@ -789,7 +789,7 @@ p {
                 It's a creative outlet that constantly challenges me to see things from different perspectives and grow as an artist.</p>
           </div>
           <div class="project-img">
-            <img src="../public/assets/img/skill1.jpg" alt="img">
+            <img src="https://scontent.fcrk1-2.fna.fbcdn.net/v/t1.15752-9/440811175_947900293539067_1548067518474723392_n.jpg?stp=dst-jpg_s403x403&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGWVId3gl2NnIWFd9iEoqaC_J6QoaxHChD8npChrEcKEHnMvmwNz1xaK674M_uEZkGcLOtiNRZhwEEBLx76vwfn&_nc_ohc=g6bmMgifd8AQ7kNvgGFM6lW&_nc_ht=scontent.fcrk1-2.fna&oh=03_Q7cD1QGn-lpS_gYTVLzg4d2awjBQTrrwubQMQm1t4PdzpKoudQ&oe=666AC8C8" alt="img">
           </div>
         </div>
         <div class="project-item">
@@ -799,7 +799,7 @@ p {
                 through code and creating solutions that have a real impact on people's lives.</p>
           </div>
           <div class="project-img">
-            <img src="../public/assets/img/skill2.jpg" alt="img">
+            <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8fDB8fHww" alt="img">
           </div>
         </div>
       </div>
@@ -812,7 +812,7 @@ p {
     <div class="about container">
       <div class="col-left">
         <div class="about-img">
-          <img src="../public/assets/img/pp.jpg" alt="img">
+          <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/441232108_2450870041765719_4826024100091718148_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF-lpwY_2IuyXX5UvG3trU79SN_ujwZOpz1I3-6PBk6nIx7I2IFk9-nykPabQF3b6SKHpn1IVnrKBCfmDuohrGN&_nc_ohc=CHmjEGpFm3AQ7kNvgFBWDaK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QHgCH7QQrB-ozOCiSp_jP4JrjEfJWRMo-Po4JpmMwBRbw&oe=666AD801" alt="img">
         </div>
       </div>
       <div class="col-right">
